@@ -8,7 +8,8 @@
 </head>
 <body>
  <h1> YOU HAVE SUCCESSFULLY ADDED THE COURSE</h1><br>
-
+<p>We have assigned different courseId, please  check database for course Id.</p>
+<p>THANKING YOU</p>
   <h2><input type="button" value="Click here" onclick="window.location.href='Delete.jsp'"> CLICK TO DELETE COURSE</h2> 
    <h2><input type="button" value="Click here" onclick="window.location.href='Home.jsp'"> CLICK FOR HOME</h2> 
    <h2><input type="button" value="Click here" onclick="window.location.href='Add.jsp'"> CLICK TO OTHER COURSE</h2> 

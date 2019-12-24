@@ -8,6 +8,7 @@
 </head>
 <body>
 <form action="course">
+<h5>Please check the database for course id, before deleting </h5>
   <h2>TO GET DETAILS OF THE Course</h2>
   Enter the BookId:  <input type="text" name="id">
   <input type="submit">

@@ -10,7 +10,7 @@
 <h2>COURSE STORE</h2>
 <form action="addcourse">
 
-  <h2> TO ADD THE BOOK</h2>
+  <h2> TO ADD THE Course</h2>
      Enter the CourseId: 	 <input type="text" name="id">
      Enter the  CourseName:   <input type="text" name="coursename">
      Enter the Status: <input type="text" name="status"><p>
